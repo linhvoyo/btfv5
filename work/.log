@@ -1,0 +1,139 @@
+Fri Mar 17 17:56:51 UTC 2017 Bam validate
+Version: 1.0.14; Built: Fri Jan 13 20:18:09 UTC 2017 by root
+
+ validate - Validate a SAM/BAM File
+	./bam validate --in <inputFile> [--noeof] [--so_flag|--so_coord|--so_query] [--maxErrors <numErrors>] [--verbose] [--printableErrors <numReportedErrors>] [--disableStatistics] [--params]
+	Required Parameters:
+		--in : the SAM/BAM file to be validated
+	Optional Parameters:
+		--noeof             : do not expect an EOF block on a bam file.
+		--refFile           : the reference file
+		--so_flag           : validate the file is sorted based on the header's @HD SO flag.
+		--so_coord          : validate the file is sorted based on the coordinate.
+		--so_query          : validate the file is sorted based on the query name.
+		--maxErrors         : Number of records with errors/invalids to allow before quiting.
+		                      -1 (default) indicates to not quit until the entire file is validated.
+		                      0 indicates not to read/validate anything.
+		--verbose           : Print specific error details rather than just a summary
+		--printableErrors   : Maximum number of records with errors to print the details of
+		                      before suppressing them when in verbose (defaults to 100)
+		--disableStatistics : Turn off statistic generation
+		--params            : Print the parameter settings
+
+
+Input Parameters
+ --in [], --noeof, --refFile [], --maxErrors [-1], --verbose,
+               --printableErrors [100], --disableStatistics, --params
+   SortOrder : --so_flag, --so_coord, --so_query
+   PhoneHome : --noPhoneHome, --phoneHomeThinning [50]
+
+--in is a mandatory argument for validate, but was not specified
+
+
+Fri Mar 17 17:56:51 UTC 2017 Samtools fastq conversion
+ 				  
+Fri Mar 17 17:57:13 UTC 2017 Bam validate
+Version: 1.0.14; Built: Fri Jan 13 20:18:09 UTC 2017 by root
+
+ validate - Validate a SAM/BAM File
+	./bam validate --in <inputFile> [--noeof] [--so_flag|--so_coord|--so_query] [--maxErrors <numErrors>] [--verbose] [--printableErrors <numReportedErrors>] [--disableStatistics] [--params]
+	Required Parameters:
+		--in : the SAM/BAM file to be validated
+	Optional Parameters:
+		--noeof             : do not expect an EOF block on a bam file.
+		--refFile           : the reference file
+		--so_flag           : validate the file is sorted based on the header's @HD SO flag.
+		--so_coord          : validate the file is sorted based on the coordinate.
+		--so_query          : validate the file is sorted based on the query name.
+		--maxErrors         : Number of records with errors/invalids to allow before quiting.
+		                      -1 (default) indicates to not quit until the entire file is validated.
+		                      0 indicates not to read/validate anything.
+		--verbose           : Print specific error details rather than just a summary
+		--printableErrors   : Maximum number of records with errors to print the details of
+		                      before suppressing them when in verbose (defaults to 100)
+		--disableStatistics : Turn off statistic generation
+		--params            : Print the parameter settings
+
+
+Input Parameters
+ --in [], --noeof, --refFile [], --maxErrors [-1], --verbose,
+               --printableErrors [100], --disableStatistics, --params
+   SortOrder : --so_flag, --so_coord, --so_query
+   PhoneHome : --noPhoneHome, --phoneHomeThinning [50]
+
+--in is a mandatory argument for validate, but was not specified
+
+
+Fri Mar 17 17:57:14 UTC 2017 Samtools fastq conversion
+ 				  
+Fri Mar 17 17:57:40 UTC 2017 Bam validate
+Version: 1.0.14; Built: Fri Jan 13 20:18:09 UTC 2017 by root
+
+ validate - Validate a SAM/BAM File
+	./bam validate --in <inputFile> [--noeof] [--so_flag|--so_coord|--so_query] [--maxErrors <numErrors>] [--verbose] [--printableErrors <numReportedErrors>] [--disableStatistics] [--params]
+	Required Parameters:
+		--in : the SAM/BAM file to be validated
+	Optional Parameters:
+		--noeof             : do not expect an EOF block on a bam file.
+		--refFile           : the reference file
+		--so_flag           : validate the file is sorted based on the header's @HD SO flag.
+		--so_coord          : validate the file is sorted based on the coordinate.
+		--so_query          : validate the file is sorted based on the query name.
+		--maxErrors         : Number of records with errors/invalids to allow before quiting.
+		                      -1 (default) indicates to not quit until the entire file is validated.
+		                      0 indicates not to read/validate anything.
+		--verbose           : Print specific error details rather than just a summary
+		--printableErrors   : Maximum number of records with errors to print the details of
+		                      before suppressing them when in verbose (defaults to 100)
+		--disableStatistics : Turn off statistic generation
+		--params            : Print the parameter settings
+
+
+Input Parameters
+ --in [], --noeof, --refFile [], --maxErrors [-1], --verbose,
+               --printableErrors [100], --disableStatistics, --params
+   SortOrder : --so_flag, --so_coord, --so_query
+   PhoneHome : --noPhoneHome, --phoneHomeThinning [50]
+
+--in is a mandatory argument for validate, but was not specified
+
+
+Fri Mar 17 17:57:40 UTC 2017 Samtools fastq conversion
+ 				  
+Fri Mar 17 18:36:59 UTC 2017 Bam validate
+Version: 1.0.14; Built: Fri Jan 13 20:18:09 UTC 2017 by root
+
+ validate - Validate a SAM/BAM File
+	./bam validate --in <inputFile> [--noeof] [--so_flag|--so_coord|--so_query] [--maxErrors <numErrors>] [--verbose] [--printableErrors <numReportedErrors>] [--disableStatistics] [--params]
+	Required Parameters:
+		--in : the SAM/BAM file to be validated
+	Optional Parameters:
+		--noeof             : do not expect an EOF block on a bam file.
+		--refFile           : the reference file
+		--so_flag           : validate the file is sorted based on the header's @HD SO flag.
+		--so_coord          : validate the file is sorted based on the coordinate.
+		--so_query          : validate the file is sorted based on the query name.
+		--maxErrors         : Number of records with errors/invalids to allow before quiting.
+		                      -1 (default) indicates to not quit until the entire file is validated.
+		                      0 indicates not to read/validate anything.
+		--verbose           : Print specific error details rather than just a summary
+		--printableErrors   : Maximum number of records with errors to print the details of
+		                      before suppressing them when in verbose (defaults to 100)
+		--disableStatistics : Turn off statistic generation
+		--params            : Print the parameter settings
+
+
+Input Parameters
+ --in [], --noeof, --refFile [], --maxErrors [-1], --verbose,
+               --printableErrors [100], --disableStatistics, --params
+   SortOrder : --so_flag, --so_coord, --so_query
+   PhoneHome : --noPhoneHome, --phoneHomeThinning [50]
+
+--in is a mandatory argument for validate, but was not specified
+
+========================================================================================================================================================
+Fri Mar 17 20:25:15 UTC 2017 Bam validate
+				 : Bam validate step skipped since input file is cram???
+Fri Mar 17 20:25:15 UTC 2017 Samtools fastq conversion
+ 				  
+				 : is single end reads

@@ -1,0 +1,101 @@
+Fri Mar 17 23:27:45 UTC 2017 Bam validate
+
+Number of records read = 10000
+Number of valid records = 0
+
+Error Counts:
+	INVALID_QNAME: 10222
+
+TotalReads	10000.00
+MappedReads	10000.00
+PairedReads	9889.00
+ProperPair	7429.00
+DuplicateReads	0.00
+QCFailureReads	0.00
+
+MappingRate(%)	100.00
+PairedReads(%)	98.89
+ProperPair(%)	74.29
+DupRate(%)	0.00
+QCFailRate(%)	0.00
+
+TotalBases	909108.00
+BasesInMappedReads	909108.00
+Returning: 7 (INVALID)
+
+===========================================================================================================================================================================================================================
+Fri Mar 17 23:28:13 UTC 2017 Samtools fastq conversion
+ 				 a.ns.bam 
+Fri Mar 17 23:34:02 UTC 2017 Combining paired end reads
+				 a.ns.bam: is paired end reads
+Fri Mar 17 23:36:05 UTC 2017 Removing duplicate read ids - a.ns.bam
+Fri Mar 17 23:37:03 UTC 2017 Compressing file ./a.ns.bam_output/a.ns.bam.R1.fastq
+Fri Mar 17 23:37:03 UTC 2017 Compressing file ./a.ns.bam_output/a.ns.bam.R2.fastq
+Fri Mar 17 23:48:25 UTC 2017 Bam validate
+
+Number of records read = 10000
+Number of valid records = 0
+
+Error Counts:
+	INVALID_QNAME: 10222
+
+TotalReads	10000.00
+MappedReads	10000.00
+PairedReads	9889.00
+ProperPair	7429.00
+DuplicateReads	0.00
+QCFailureReads	0.00
+
+MappingRate(%)	100.00
+PairedReads(%)	98.89
+ProperPair(%)	74.29
+DupRate(%)	0.00
+QCFailRate(%)	0.00
+
+TotalBases	909108.00
+BasesInMappedReads	909108.00
+Returning: 7 (INVALID)
+
+
+Fri Mar 17 23:48:25 UTC 2017 Samtools fastq conversion
+ 				 a.ns.bam 
+Fri Mar 17 23:48:25 UTC 2017 Combining paired end reads
+				 a.ns.bam: is paired end reads
+Fri Mar 17 23:48:25 UTC 2017 Removing duplicate read ids - a.ns.bam
+Fri Mar 17 23:48:25 UTC 2017 Compressing file ./a.ns.bam_output/a.ns.bam.R1.fastq
+Fri Mar 17 23:48:25 UTC 2017 Compressing file ./a.ns.bam_output/a.ns.bam.R2.fastq
+Fri Mar 17 23:48:26 UTC 2017 a.ns.bam - Conversion done using linhvoyo/btfv4 docker 
+Fri Mar 17 23:50:02 UTC 2017 Bam validate
+
+Number of records read = 10000
+Number of valid records = 0
+
+Error Counts:
+	INVALID_QNAME: 10222
+
+TotalReads	10000.00
+MappedReads	10000.00
+PairedReads	9889.00
+ProperPair	7429.00
+DuplicateReads	0.00
+QCFailureReads	0.00
+
+MappingRate(%)	100.00
+PairedReads(%)	98.89
+ProperPair(%)	74.29
+DupRate(%)	0.00
+QCFailRate(%)	0.00
+
+TotalBases	909108.00
+BasesInMappedReads	909108.00
+Returning: 7 (INVALID)
+
+
+Fri Mar 17 23:50:03 UTC 2017 Samtools fastq conversion
+ 				 a.ns.bam 
+Fri Mar 17 23:50:03 UTC 2017 Combining paired end reads
+				 a.ns.bam: is paired end reads
+Fri Mar 17 23:50:03 UTC 2017 Removing duplicate read ids - a.ns.bam
+Fri Mar 17 23:50:03 UTC 2017 Compressing file ./a.ns.bam_output/a.ns.bam.R1.fastq
+Fri Mar 17 23:50:03 UTC 2017 Compressing file ./a.ns.bam_output/a.ns.bam.R2.fastq
+Fri Mar 17 23:50:03 UTC 2017 a.ns.bam - Conversion done using linhvoyo/btfv4 docker 

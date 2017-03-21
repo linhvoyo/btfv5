@@ -1,0 +1,52 @@
+Mon Mar 20 20:49:45 UTC 2017 Bam validate
+				 f.ns.cram: Bam validate step skipped since input file is cram???
+Mon Mar 20 20:49:45 UTC 2017 Samtools fastq conversion
+ 				 f.ns.cram 
+Mon Mar 20 20:49:45 UTC 2017 Combining paired end reads
+				 f.ns.cram: is paired end reads
+Mon Mar 20 20:49:45 UTC 2017 Removing duplicate read ids - f.ns.cram
+Mon Mar 20 20:49:46 UTC 2017 Compressing file ./f.ns.cram_output/f.ns.cram.R1.fastq
+Mon Mar 20 20:49:46 UTC 2017 Compressing file ./f.ns.cram_output/f.ns.cram.R2.fastq
+Mon Mar 20 20:49:46 UTC 2017 f.ns.cram - Conversion done using linhvoyo/btfv5 docker 
+Mon Mar 20 20:50:56 UTC 2017 Bam validate
+				 f.ns.cram: Bam validate step skipped since input file is cram???
+Mon Mar 20 20:51:35 UTC 2017 Samtools fastq conversion
+ 				 f.ns.cram 
+Mon Mar 20 20:51:57 UTC 2017 Combining paired end reads
+				 f.ns.cram: is paired end reads
+Mon Mar 20 20:52:10 UTC 2017 Removing duplicate read ids - f.ns.cram
+Mon Mar 20 20:52:21 UTC 2017 Compressing file ./f.ns.cram_output/f.ns.cram.R1.fastq
+Mon Mar 20 20:52:21 UTC 2017 Compressing file ./f.ns.cram_output/f.ns.cram.R2.fastq
+Mon Mar 20 20:53:47 UTC 2017 f.ns.cram - Conversion done using linhvoyo/btfv5 docker 
+Mon Mar 20 20:54:59 UTC 2017 Samtools fastq conversion
+ 				 f.ns.cram 
+Mon Mar 20 20:56:27 UTC 2017 Bam validate
+				 f.ns.cram: Bam validate step skipped since input file is cram???
+Mon Mar 20 20:56:46 UTC 2017 Samtools fastq conversion
+ 				 f.ns.cram 
+Mon Mar 20 20:56:46 UTC 2017 Combining paired end reads
+				 f.ns.cram: is paired end reads
+Mon Mar 20 20:57:08 UTC 2017 Removing duplicate read ids - f.ns.cram
+Mon Mar 20 20:57:09 UTC 2017 Compressing file ./f.ns.cram_output/f.ns.cram.R1.fastq
+Mon Mar 20 20:57:09 UTC 2017 Compressing file ./f.ns.cram_output/f.ns.cram.R2.fastq
+Mon Mar 20 20:58:08 UTC 2017 f.ns.cram - Conversion done using linhvoyo/btfv5 docker 
+Mon Mar 20 21:03:11 UTC 2017 Bam validate
+				 f.ns.cram: Bam validate step skipped since input file is cram???
+Mon Mar 20 21:03:11 UTC 2017 Samtools fastq conversion
+ 				 f.ns.cram 
+Mon Mar 20 21:03:11 UTC 2017 Combining paired end reads
+				 f.ns.cram: is paired end reads
+Mon Mar 20 21:03:11 UTC 2017 Removing duplicate read ids - f.ns.cram
+Mon Mar 20 21:03:12 UTC 2017 Compressing file ./f.ns.cram_output/f.ns.cram.R1.fastq
+Mon Mar 20 21:03:12 UTC 2017 Compressing file ./f.ns.cram_output/f.ns.cram.R2.fastq
+Mon Mar 20 21:04:01 UTC 2017 f.ns.cram - Conversion done using linhvoyo/btfv5 docker 
+Mon Mar 20 21:08:26 UTC 2017 Bam validate
+				 f.ns.cram: Bam validate step skipped since input file is cram???
+Mon Mar 20 21:08:26 UTC 2017 Samtools fastq conversion
+ 				 f.ns.cram 
+Mon Mar 20 21:08:27 UTC 2017 Combining paired end reads
+				 f.ns.cram: is paired end reads
+Mon Mar 20 21:08:27 UTC 2017 Removing duplicate read ids - f.ns.cram
+Mon Mar 20 21:08:27 UTC 2017 Compressing file ./f.ns.cram_output/f.ns.cram.R1.fastq
+Mon Mar 20 21:08:27 UTC 2017 Compressing file ./f.ns.cram_output/f.ns.cram.R2.fastq
+Mon Mar 20 21:08:27 UTC 2017 f.ns.cram - Conversion done using linhvoyo/btfv5 docker 
